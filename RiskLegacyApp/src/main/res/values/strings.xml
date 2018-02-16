@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Digital_Entropy</string>
+    <string name="how_to_play">Digital Entropy is a love letter style card game set in a cyberpunk background, the aim of the game is to be the last player standing at the end of the round. The game is played by giving each player one card, on your turn you recieve a second card and choose which card to play. If there are no cards in the deck left and more than one player still in the game, the Player with the highest value card remaining wins the round. The first player to win three rounds is the victor.</string>
+</resources>
