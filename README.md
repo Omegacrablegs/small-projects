@@ -1,2 +1,2 @@
 # small-projects
-Small personal projects
+Small projects
